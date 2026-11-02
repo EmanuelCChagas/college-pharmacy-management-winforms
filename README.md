@@ -1,4 +1,6 @@
-# Pharmacy Management
+# Pharmacy Management — College Project
+
+> College coursework project, preserved as a record of learning and academic development.
 
 A Windows desktop project for managing pharmacy customers, products, and checkout. Developed with C#, Windows Forms, and MySQL for **Hands On Work IV** (2021). The application interface is in Portuguese.
 
@@ -31,7 +33,7 @@ The repository includes historical build output under `bin/Debug/`, but that doe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/EmanuelCChagas/pharmacy-management-winforms.git
+   git clone https://github.com/EmanuelCChagas/college-pharmacy-management-winforms.git
    ```
 
 2. On Windows, install Visual Studio with .NET desktop development support and the .NET Framework 4.7.2 targeting pack.
